@@ -8,6 +8,7 @@ Lastly I downloaded and installed Visual Studio Community 2019 and generated a H
 * [README](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code)
 * [Log](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Log.md)
 * [Resources](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Resources.md)
+* ["Hello World!"](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/tree/master/Code/Hello_World!)
 ### Time spent
 Today - 2 hours 30 minutes
 
