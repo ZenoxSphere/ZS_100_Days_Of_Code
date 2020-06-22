@@ -11,3 +11,7 @@ This is a full list of all of the resources I have used in this challenge in ord
 * Git Download https://git-scm.com/download/win
 * Git Tutorial https://kbroman.org/github_tutorial/pages/init.html
 * CPP Tutorial https://www.learncpp.com/
+### Day 2
+* C++ String Tutorial https://www.w3schools.com/cpp/cpp_strings.asp
+* Using strings as return types https://stackoverflow.com/questions/3792923/how-to-make-function-return-string-in-c
+
