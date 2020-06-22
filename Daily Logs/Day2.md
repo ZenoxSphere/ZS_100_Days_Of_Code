@@ -14,6 +14,8 @@ After getting to the end of chapter 4 I decided to write a basic program that co
 
 In Java you have to use a capital letter when initialising Strings, I assumed it was the same in C++ although after trial I had to search how to use them in C++, this involves using a header file. I also had to lookup how they work as return types, which taught me a lesson on namespaces.
 
+I am hoping to finish the learncpp.com tutorials soon and start converting some of my java programs to C++ before moving on to new projects.
+
 I am glad I decided to spend so much time learning git/github and markdown yesterday as it made editing my log and pushing to github very easy today, the next time I will need to learn more about git will be if i need to roll-back changes or clone the repo to my laptop. 
 ### Files edited today
 * [Grade Calculator](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Code/Grade_Calculator/Grade_Calculator/Grade_Calculator.cpp)
