@@ -16,7 +16,7 @@ In Java you have to use a capital letter when initialising Strings, I assumed it
 
 I am glad I decided to spend so much time learning git/github and markdown yesterday as it made editing my log and pushing to github very easy today, the next time I will need to learn more about git will be if i need to roll-back changes or clone the repo to my laptop. 
 ### Files edited today
-* [Grade Calculator](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Code/Hello_World!/Hello_World!/Hello_World!.cpp)
+* [Grade Calculator](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Code/Grade_Calculator/Grade_Calculator/Grade_Calculator.cpp)
 ### Time spent (excluding writing and editing my logs)
 Today - 1 hour 53 minutes
 
