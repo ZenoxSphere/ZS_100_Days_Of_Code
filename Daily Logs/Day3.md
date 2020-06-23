@@ -34,14 +34,16 @@ Reading through this chapter showed me how much more depth there is in C++ over 
 
 After this I decided to make an edit to the Grade Calculator from yesterday to add a few features covered in chapter 6 and headers/header guards from chapter 2 which is another topic I need to reinforce my knowledge on. Even though this did not add any functionality to the program it helped me learn how to impliment user-defined namespaces and use/create header files in Visual Studio, I added these features by splitting my code across files, which is another thing I hadnt done yet in C++. Editing the files took about 20 minutes.
 
+Looking forward at the next few chapters, I feel like there is more content I will get through rather quickly, this includes strings(which I already bumped into yesterday) and other general syntax such as else if statements and loops of which I previous experience with in other languages before. The next thing to come up that may take some time is pointers.
 ### Files edited today
-* [Grade Calculator Multi Files](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Code/Grade_Calculator_Multi_Files/Grade_Calculator_Multi_Files)
+* [Grade Calculator Multi File](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Code/Grade_Calculator_Multi_File/Grade_Calculator_Multi_File)
 ### Time spent
 Today - 1 hour 30 minutes
 
-Todays Logs - 40 minutes
+Todays Logs - 47 minutes
 
-In Total - 7 hours 13  minutes
+In Total - 7 hours 20 minutes
 ### Music Listened to
 [Killswitch Engage - Alive or Just Breathing(Topshelf Edition)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7?si=dOf2Jca3TcC7jln7JCIzeQ)
+
 [Killswitch Engage - Killswitch Engage(2009)](https://open.spotify.com/album/0Vj4E53uI59Q4hnxiIpZrl?si=l2fMFpyYQa2kMygay1atxw)
