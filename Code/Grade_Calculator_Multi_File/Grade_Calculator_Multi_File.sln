@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grade_Calculator_Multi_File", "Grade_Calculator_Multi_File\Grade_Calculator_Multi_File.vcxproj", "{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Debug|x64.ActiveCfg = Debug|x64
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Debug|x64.Build.0 = Debug|x64
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Debug|x86.ActiveCfg = Debug|Win32
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Debug|x86.Build.0 = Debug|Win32
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Release|x64.ActiveCfg = Release|x64
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Release|x64.Build.0 = Release|x64
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Release|x86.ActiveCfg = Release|Win32
+		{50E4BDB8-EC2F-4D2B-A1BB-BA72BAF9F00F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8BA3E7-BF61-4CF1-B277-0FFDB9F9F2EC}
+	EndGlobalSection
+EndGlobal

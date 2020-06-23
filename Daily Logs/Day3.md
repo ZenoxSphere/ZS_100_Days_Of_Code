@@ -1,0 +1,47 @@
+# Day 3 (23/06/2020) - Operators, Variable scope, duration and linkage , User-defined namespaces and more.
+Today I feel I have covered a lot of ground, although it was rather difficult. Most of the content in the tutorial today (chapters 5 and 6) is stuff I have not come across before.
+
+I made my way through chapter 5 quite quickly today as it covers operators, most of this chapter was simular to the operators I have seen already in Java and other languages I have used, but it was a good refresher and I learned about new things such as:
+
+* `std::pow` for handling exponents (powers)
+* Prefix increment/decrement (I have only used postfix in Java)
+* Conditional operators
+
+The next chapter was optional and it concerned bit manipulation, I am going to return to this at a later date.
+
+I was very underprepared for chapter 6, most of what was covered in this chapter was new to me, a few of the parts of this chapter took a while for me to understand, I will definately need to go back to this chapter at some point in the future to reinforce some of the topics. What made working through this chapter worse is that it was very long, I feel that the chapter could easily be broken up into 2 or 3 smaller chunks.
+
+The first 11 parts of this chapter covered:
+* Compound statements
+* User-defined namespaces
+* Local and Global variables
+* Variable shadowing
+* Internal and External linkage
+* Global constants and Inline variables
+* Static local variables
+
+I feel like the chapter could easily end there (The 11th part of the chapter is even a summary of the first 10 parts). Most of this was new to me, all except Compound statements and local/global variables.
+
+The last 6 parts of the chapter covered:
+* "Using" statements
+* Typedefs and type aliases
+* The auto keyword
+* Implicit and Explicit type conversion
+* Unnamed and inline namespaces
+All of which was new to me except for type conversion. This last part of the chapter contained easier concepts than the first especially when it came to "using" statements and the auto keyword.
+
+Reading through this chapter showed me how much more depth there is in C++ over Java. Getting through these chapters took me over an hour.
+
+After this I decided to make an edit to the Grade Calculator from yesterday to add a few features covered in chapter 6 and headers/header guards from chapter 2 which is another topic I need to reinforce my knowledge on. Even though this did not add any functionality to the program it helped me learn how to impliment user-defined namespaces and use/create header files in Visual Studio, I added these features by splitting my code across files, which is another thing I hadnt done yet in C++. Editing the files took about 20 minutes.
+
+### Files edited today
+* [Grade Calculator Multi Files](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Code/Grade_Calculator_Multi_Files/Grade_Calculator_Multi_Files)
+### Time spent
+Today - 1 hour 30 minutes
+
+Todays Logs - 40 minutes
+
+In Total - 7 hours 13  minutes
+### Music Listened to
+[Killswitch Engage - Alive or Just Breathing(Topshelf Edition)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7?si=dOf2Jca3TcC7jln7JCIzeQ)
+[Killswitch Engage - Killswitch Engage(2009)](https://open.spotify.com/album/0Vj4E53uI59Q4hnxiIpZrl?si=l2fMFpyYQa2kMygay1atxw)
