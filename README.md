@@ -5,13 +5,13 @@
 * [Resources](Resources.md)
 
 ### What is the 100 days of code challenge?
-The 100 days of code challenge is a daily programming challenge in which I will code for atleast an hour everyday for 100 days.
+The 100 days of code challenge is a daily programming challenge in which I will code for at least an hour every day for 100 days.
 
 This challenge was originally started by [Alex Kallaway](https://github.com/kallaway).
 ### Why am I doing the challenge?
 I am a Computer Science student and I have just finished my first year at The University of Kent School of Computing, where I have mainly been studying OOP using Java.
 
-Since the start of the Covid-19 Lockdown and the end of my first year of university I feel that I havent achieved anything with my extra free time.
+Since the start of the Covid-19 Lockdown and the end of my first year of university I feel that I haven't achieved anything with my extra free time.
 Recently I have wanted to start learning C++ as I feel it will be useful in my CS career and in my video game development hobby and I am using this challenge as motivation to get started.
 
 I have also thinking about learning how to use Git and Github and this challenge is the perfect time to learn them and markdown as an extension of that.
@@ -19,7 +19,7 @@ I have also thinking about learning how to use Git and Github and this challenge
 By the end of the challenge I aim to...
 
 * Know the basics of C++ so I can start writing programs
-* Create a couple of basic text based games using C++
+* Create a couple of basic text-based games using C++
 * Start working on a GUI based game project using SDL
 * Gain good knowledge on how to use Git, Github and Markdown
 ### Music?

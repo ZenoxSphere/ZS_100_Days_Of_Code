@@ -1,15 +1,15 @@
-# Day 3 (23/06/2020) - Operators, Variable scope, duration and linkage , User-defined namespaces and more.
+# Day 3 (23/06/2020) - Operators, Variable scope, duration and linkage, User-defined namespaces and more.
 Today I feel I have covered a lot of ground, although it was rather difficult. Most of the content in the tutorial today (chapters 5 and 6) is stuff I have not come across before.
 
-I made my way through chapter 5 quite quickly today as it covers operators, most of this chapter was simular to the operators I have seen already in Java and other languages I have used, but it was a good refresher and I learned about new things such as:
+I made my way through chapter 5 quite quickly today as it covers operators, most of this chapter was similar to the operators I have seen already in Java and other languages I have used, but it was a good refresher and I learned about new things such as:
 
 * `std::pow` for handling exponents (powers)
 * Prefix increment/decrement (I have only used postfix in Java)
 * Conditional operators
 
-The next chapter was optional and it concerned bit manipulation, I am going to return to this at a later date.
+The next chapter was optional, and it concerned bit manipulation, I am going to return to this at a later date.
 
-I was very underprepared for chapter 6, most of what was covered in this chapter was new to me, a few of the parts of this chapter took a while for me to understand, I will definately need to go back to this chapter at some point in the future to reinforce some of the topics. What made working through this chapter worse is that it was very long, I feel that the chapter could easily be broken up into 2 or 3 smaller chunks.
+I was very underprepared for chapter 6, most of what was covered in this chapter was new to me, a few of the parts of this chapter took a while for me to understand, I will definitely need to go back to this chapter at some point in the future to reinforce some of the topics. What made working through this chapter worse is that it was very long, I feel that the chapter could easily be broken up into 2 or 3 smaller chunks.
 
 The first 11 parts of this chapter covered:
 * Compound statements
@@ -40,9 +40,9 @@ Looking forward at the next few chapters, I feel like there is more content I wi
 ### Time spent
 Today - 1 hour 30 minutes
 
-Todays Logs - 47 minutes
+Today's Logs - 57 minutes
 
-In Total - 7 hours 20 minutes
+In Total - 7 hours 30 minutes
 ### Music Listened to
 [Killswitch Engage - Alive or Just Breathing(Topshelf Edition)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7?si=dOf2Jca3TcC7jln7JCIzeQ)
 

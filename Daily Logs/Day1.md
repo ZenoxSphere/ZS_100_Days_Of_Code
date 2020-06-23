@@ -3,7 +3,7 @@ Today I made a very large amount of progress in learning to write documentation 
 
 I also downloaded and installed Git for windows and successfully initialised, committed to and pushed my first repository to Github. This was easier to work out that I first thought it would be.
 
-Lastly I downloaded and installed Visual Studio Community 2019 and generated a Hello World program ready for me to start getting into C++ basics tomorrow. I am expecting to cover a large amount of material quickly within the first few days as I am already familiar with OOP and Java. To pickup the basics I will be using the tutorials on learncpp.com.
+Lastly I downloaded and installed Visual Studio Community 2019 and generated a Hello World program ready for me to start getting into C++ basics tomorrow. I am expecting to cover a large amount of material quickly within the first few days as I am already familiar with OOP and Java. To pick up the basics I will be using the tutorials on learncpp.com.
 ### Files edited today
 * [README](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code)
 * [Log](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Log.md)
