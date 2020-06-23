@@ -24,3 +24,9 @@ By the end of the challenge I aim to...
 * Gain good knowledge on how to use Git, Github and Markdown
 ### Music?
 I am very into music, especially metal music, this does not concern programming but I listen to music 90% of the time while working at home and I feel it may be interesting if I log what I am listening to in my daily logs, most of the time it will be one of my playlists but if I am listening to anything in particular I will note it down.
+
+#### Playlists
+
+[ZS Song of the day (general)](https://open.spotify.com/playlist/287rMaeyZGduAoI1pRp0fY?si=awvavZFXS86GnfMjvjdIPg)
+
+[ZS Classic Hard Rock and Metal](https://open.spotify.com/playlist/3p3O0qjsuFlJFXXylAAMiC?si=qv1Us3AaSCqIefqF46jCag)
