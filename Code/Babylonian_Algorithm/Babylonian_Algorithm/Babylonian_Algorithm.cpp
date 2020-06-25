@@ -1,4 +1,4 @@
-// Babylonian_Algorithm.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Babylonian_Algorithm.cpp : This program takes a number as input and calculates the square root.
 //
 
 #include <iostream>
