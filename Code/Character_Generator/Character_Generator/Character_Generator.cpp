@@ -68,31 +68,12 @@ void printItem(Item item) // Convert the Item from int to text and print it to t
     }
 }
 
-CharacterClass classSelect(Character character) // set up and select the class selected by the user.
+CharacterClass classSelect(Character character) // set up and select the class selected by the user. (Agility, Strength, Intelligence, Charisma)
 {
-     CharacterClass Tank;
-     Tank.agilityMod = 2;
-     Tank.strengthMod = 10;
-     Tank.intelligenceMod = 4;
-     Tank.charismaMod = 6;
-
-     CharacterClass Mage;
-     Mage.agilityMod = 6;
-     Mage.strengthMod = 2;
-     Mage.intelligenceMod = 10;
-     Mage.charismaMod = 4;
-
-     CharacterClass Assassin;
-     Assassin.agilityMod = 10;
-     Assassin.strengthMod = 4;
-     Assassin.intelligenceMod = 6;
-     Assassin.charismaMod = 2;
-
-     CharacterClass Soldier;
-     Soldier.agilityMod = 6;
-     Soldier.strengthMod = 6;
-     Soldier.intelligenceMod = 6;
-     Soldier.charismaMod = 6;
+    CharacterClass Tank{2,10,4,6};
+    CharacterClass Mage{6,2,10,4};
+    CharacterClass Assassin{ 10,2,6,2 };
+    CharacterClass Soldier{6,6,6,6};
 
      if (character.classType == "Tank" || character.classType == "tank") { // take string input from user, convert to classType.
          return Tank;
