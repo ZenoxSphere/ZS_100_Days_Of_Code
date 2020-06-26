@@ -16,3 +16,7 @@ This is a full list of all of the resources I have used in this challenge in ord
 * Using strings as return types https://stackoverflow.com/questions/3792923/how-to-make-function-return-string-in-c
 ### Day 4
 * C++ Reference https://en.cppreference.com/w/cpp
+### Day 5
+* C++ Random Library https://github.com/effolkronium/random
+* Randomising Enums https://stackoverflow.com/questions/2999012/generating-random-enums
+* String Concatenation tutorial https://www.w3schools.com/cpp/cpp_strings_concat.asp
