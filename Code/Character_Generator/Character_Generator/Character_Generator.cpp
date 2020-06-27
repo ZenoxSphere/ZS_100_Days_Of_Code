@@ -23,7 +23,7 @@ enum class Item // Items the character can carry.
     ITEM_SHIELD,
     ITEM_TRIDENT,
     ITEM_TORCH,
-    ITEM_ROPE,
+    ITEM_ROPE
 };
 
 struct Character { // The Character struct.
@@ -33,8 +33,8 @@ struct Character { // The Character struct.
     int strength {};
     int intelligence {};
     int charisma {};
-    Item item1 {};
-    Item item2 {};
+    Item item1{};
+    Item item2{};
 };
 
 void printItem(Item item) // Convert the Item from int to text and print it to the console.
@@ -72,7 +72,7 @@ CharacterClass classSelect(Character character) // set up and select the class s
 {
     CharacterClass Tank{2,10,4,6};
     CharacterClass Mage{6,2,10,4};
-    CharacterClass Assassin{ 10,2,6,2 };
+    CharacterClass Assassin{10,4,6,2};
     CharacterClass Soldier{6,6,6,6};
 
      if (character.classType == "Tank" || character.classType == "tank") { // take string input from user, convert to classType.
@@ -116,9 +116,8 @@ void generateStats(Character character) // use the random header to generate the
     character.strength = Random::get(1, current.strengthMod);
     character.intelligence = Random::get(1, current.intelligenceMod);
     character.charisma = Random::get(1, current.charismaMod);
-    character.item1 = static_cast<Item>(Random::get(0, 7)); //pick an item from the enum.
+    character.item1 = static_cast<Item>(Random::get(0, 7));
     character.item2 = static_cast<Item>(Random::get(0, 7));
-    
     displayCharacter(character);
 }
 
