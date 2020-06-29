@@ -26,7 +26,7 @@ This concludes the first 7 days of my learning, in which I have covered:
 * Header Files
 * Passing parameters
 * Operators
-* Type convertion
+* Type conversion
 * Arrays
 * Pointers
 * Memory Management
