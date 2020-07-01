@@ -20,3 +20,7 @@ This is a full list of all of the resources I have used in this challenge in ord
 * C++ Random Library https://github.com/effolkronium/random
 * Randomising Enums https://stackoverflow.com/questions/2999012/generating-random-enums
 * String Concatenation tutorial https://www.w3schools.com/cpp/cpp_strings_concat.asp
+### Day 8
+* Iterating through Vectors https://www.quora.com/How-do-I-iterate-through-a-vector-using-for-loop-in-C++
+* CPP getline reference https://www.cplusplus.com/reference/string/string/getline/
+* Algorithms reference https://en.cppreference.com/w/cpp/algorithm

@@ -10,3 +10,4 @@ I have created my logs in separate files so each individual log is easier to fin
 * [Day 5](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Daily%20Logs/Day5.md#day-5) The Character Generator.
 * [Day 6](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Daily%20Logs/Day6.md#day-6) Arrays and updating the Character Generator.
 * [Day 7](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Daily%20Logs/Day7.md#day-7) Pointers and memory management.
+* [Day 8](https://github.com/ZenoxSphere/ZS_100_Days_Of_Code/blob/master/Daily%20Logs/Day8.md#day-8) Reference Variables, Iterators and std::vector.

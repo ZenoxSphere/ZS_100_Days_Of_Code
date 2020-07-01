@@ -141,8 +141,7 @@ Character createCharacter(Character character) // enter the desired character na
     std::cout << ("Mage\n");
     std::cout << ("Assassin\n");
     std::cout << ("Soldier\n");
-    std::cin >> character.classType;
-
+    std::getline(std::cin, character.classType);
     character = generateStats(character);
     character = generateInventory(character);
     return character;
